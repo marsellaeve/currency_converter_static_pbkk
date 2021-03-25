@@ -1,0 +1,17 @@
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\dynamic_currency_converter.exe
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.csprojAssemblyReference.cache
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.Form1.resources
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.csproj.GenerateResource.cache
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.AssemblyInfoInputs.cache
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.AssemblyInfo.cs
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\dynamic_currency_converter.deps.json
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\dynamic_currency_converter.runtimeconfig.json
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\dynamic_currency_converter.runtimeconfig.dev.json
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\dynamic_currency_converter.dll
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\dynamic_currency_converter.pdb
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.csproj.CoreCompileInputs.cache
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.csproj.CopyComplete
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.dll
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.pdb
+C:\Users\marse\Documents\Semester 6\PBKK_C\dynamic_currency_converter\dynamic_currency_converter\obj\Debug\netcoreapp3.1\dynamic_currency_converter.genruntimeconfig.cache
